@@ -1,4 +1,4 @@
-# web3-beginner
+# web3-beginner -- Learnt from LearnWeb3.io
 
 Beginner project made with `Vanilla JavaScript`
 
